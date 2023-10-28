@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenTema1</string>
+    <string name="call">llamada</string>
+    <string name="alarm">alarma</string>
+    <string name="url">url</string>
+    <string name="email">email</string>
+
+</resources>
